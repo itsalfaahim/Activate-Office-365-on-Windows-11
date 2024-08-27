@@ -4,6 +4,7 @@
 3. Now wait untill installation of the software.
 4. After installation close the software and Open Microsoft Powershell as Adminstrator
 5. Right-click on the Windows start menu and select PowerShell or Terminal (Not CMD).
-
-Copy and paste the code below and press enter
-                              irm https://get.activated.win | iex
+6. Copy and paste the code below and press enter
+```bash
+irm https://get.activated.win | iex
+```
