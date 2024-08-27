@@ -3,5 +3,7 @@
 2. After Downloading the setupoffice.exe file, Right click and Press "Run as Adminstrator".
 3. Now wait untill installation of the software.
 4. After installation close the software and Open Microsoft Powershell as Adminstrator
-5. To open Powershell as Adminstator, Right click on start menu and find Powershell (Run as Admin)
-6. Paste 
+5. Right-click on the Windows start menu and select PowerShell or Terminal (Not CMD).
+
+Copy and paste the code below and press enter
+                              irm https://get.activated.win | iex
