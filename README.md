@@ -13,3 +13,18 @@ irm https://get.activated.win | iex
 
 7. You will see the activation options. Follow the on-screen instructions.
 8. That's all.
+
+### Screenshots
+![image](https://github.com/user-attachments/assets/7923d457-ad18-412c-8f4b-31736ea8a56f)
+
+![image](https://github.com/user-attachments/assets/cd75c2ea-7078-49b0-9726-f68798b8c3f8)
+
+![image](https://github.com/user-attachments/assets/815c1966-660e-426a-9212-2e9e19eaf67f)
+
+![image](https://github.com/user-attachments/assets/8747d75a-6297-4aca-9ded-11fd44b03954)
+
+----------------------------------------
+
+Made with Love ❤️
+
+
